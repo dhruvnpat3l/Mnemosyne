@@ -10,7 +10,10 @@
   <body>
     <a class="skip-link" href="#content">Skip to content</a>
     <header>
-      <a class="brand" href="{{ '/' | relative_url }}">Pandora <span>by Zendacros</span></a>
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img class="brand-logo" src="{{ '/assets/logo.png' | relative_url }}" alt="" width="64" height="64">
+        <span class="brand-name">Pandora <span class="brand-publisher">by Zendacros</span></span>
+      </a>
       <nav aria-label="Legal documents">
         <a href="{{ '/privacy-policy/' | relative_url }}"{% if page.permalink == '/privacy-policy/' %} aria-current="page"{% endif %}>Privacy Policy</a>
         <a href="{{ '/terms-and-conditions/' | relative_url }}"{% if page.permalink == '/terms-and-conditions/' %} aria-current="page"{% endif %}>Terms and Conditions</a>
