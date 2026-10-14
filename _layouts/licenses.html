@@ -1,0 +1,20 @@
+---
+layout: default
+---
+<div class="legal-document">
+  <aside class="license-sidebar">
+    <nav aria-label="License contents">
+      <h2>On this page</h2>
+      <a href="#included-components">Included components</a>
+      <ol>
+        {% for component in page.components %}
+        <li><a href="#{{ component.anchor }}">{{ component.title | escape }}</a></li>
+        {% endfor %}
+      </ol>
+    </nav>
+  </aside>
+  <article class="legal-copy">
+    {{ content }}
+    <p class="back-link"><a href="#included-components">Back to included components ↑</a></p>
+  </article>
+</div>

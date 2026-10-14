@@ -1,5 +1,5 @@
 title: Pandora
-description: Privacy policy and terms for Pandora by Zendacros.
+description: Privacy policy, terms, and third-party licenses for Pandora by Zendacros.
 url: https://dhruvnpat3l.github.io
 baseurl: /Mnemosyne
 markdown: kramdown
@@ -12,3 +12,4 @@ defaults:
       layout: default
 exclude:
   - README.md
+  - THIRD_PARTY_REVIEW.md
