@@ -39,15 +39,15 @@ components:
 ---
 # Third-party Software and Licenses
 
-**App:** Pandora
+**App:** Mnemosyne
 
 **Publisher:** Zendacros
 
-**Last updated:** 14 October 2026
+**Last updated:** 18 October 2026
 
-Pandora includes third-party open-source libraries, fonts, and dictionary data. The components listed below are provided under their respective licenses. Copyright and other rights remain with their respective owners.
+Mnemosyne includes third-party open-source libraries, fonts, and dictionary data. The components listed below are provided under their respective licenses. Copyright and other rights remain with their respective owners.
 
-These third-party licenses apply independently of the Pandora Terms of Use. The original license texts and notices reproduced below govern the use, copying, modification, and distribution of the corresponding components.
+These third-party licenses apply independently of the Mnemosyne Terms of Use. The original license texts and notices reproduced below govern the use, copying, modification, and distribution of the corresponding components.
 
 ## Included components
 
@@ -74,11 +74,11 @@ Choose a component to jump to its complete license and notices. All texts are av
 
 ## External services and links
 
-If you choose an EPUB from a cloud file provider or open an external link from a book, the provider, app, or website you use is subject to its own terms and privacy policy. Those services are separate from the software license notices below. Pandora data handling is described in its Privacy Policy.
+If you choose an EPUB from a cloud file provider or open an external link from a book, the provider, app, or website you use is subject to its own terms and privacy policy. Those services are separate from the software license notices below. Mnemosyne data handling is described in its Privacy Policy.
 
 ## License texts and notices
 
-The following texts are reproduced from the license files bundled with Pandora. Additional upstream notices and copyright notices from the bundled fonts are included separately without altering the original license texts.
+The following texts are reproduced from the license files bundled with Mnemosyne. Additional upstream notices and copyright notices from the bundled fonts are included separately without altering the original license texts.
 
 ### AndroidX and Jetpack Compose {#androidx-and-jetpack-compose}
 
