@@ -4,7 +4,7 @@ body { margin: 0; line-height: 1.75; }
 header, main, footer { max-width: 860px; margin: 0 auto; padding: 28px 24px; }
 header { border-bottom: 1px solid #deded6; }
 .brand { display: inline-flex; align-items: center; gap: 14px; color: #242b35; font-size: 24px; font-weight: 700; text-decoration: none; }
-.brand-logo { display: block; flex-shrink: 0; width: 64px; height: 64px; object-fit: contain; border-radius: 12px; }
+.brand-logo { display: block; flex-shrink: 0; width: 64px; height: 64px; object-fit: contain; border-radius: 6px; }
 .brand-publisher { display: block; font-size: 13px; font-weight: 400; color: #59616d; }
 .site-nav { display: flex; flex-wrap: wrap; gap: 8px 24px; margin-top: 16px; }
 a { color: #285b87; text-underline-offset: 3px; }
